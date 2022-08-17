@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samira
+- 👋 Hi, I’m @Samira
 - 👀 I’m interested in frontend programming
 - 🌱 I’m currently learning CSS,Javascript,Linux and Git
 - 📫 How to reach me samira.arte@v2solutions.com
